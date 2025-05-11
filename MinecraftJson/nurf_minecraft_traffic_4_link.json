@@ -1,8 +1,8 @@
 {
-  "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F2B5KR35",
-  "Link2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F2B5KR35",
-  "Link3": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F2B5KR35",
-  "Link4": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F2B5KR35",
-  "Link5": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F2B5KR35",
+  "Link1": "https://www.google.com/",
+  "Link2": "https://www.facebook.com/",
+  "Link3": "https://www.x.com/",
+  "Link4": "https://www.github.com/",
+  "Link5": "https://www.lolipop.com/",
   "Panel3": true
 }
